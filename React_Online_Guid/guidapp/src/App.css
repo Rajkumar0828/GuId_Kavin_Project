@@ -1,0 +1,7 @@
+.custom-toast {
+  height: 70px; /* Adjust the height as needed */
+  background-color: #f0f0f0; /* Example background color */
+  border-radius: 10px; /* Example border radius */
+  font-size: 16px; /* Example font size */
+  padding: 10px; /* Example padding */
+}
